@@ -1,0 +1,25 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/pink-yellow-plain-background_53876-98329.jpg?w=900&t=st=1689942367~exp=1689942967~hmac=02cd7f03cafcbad368a8be88e80c854c764df56cffa739f383182d6b06279f50");
+    background-size: cover;
+    height: 100vh;
+}
+.heading{
+    color:#ffffff;
+    font-family: 'Roboto';
+    font-size:30px;
+    font-weight:bold;
+    text-align: center;
+    padding:10px;
+}
+.new-password{
+    font-weight: bold;
+    color:white;
+}
+.confirm-password{
+    font-weight: bold;
+    color:white;
+}
+.error{
+    color:red;
+    font-weight: bold;
+}
